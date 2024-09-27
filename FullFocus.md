@@ -18,7 +18,6 @@
 ![Non-clickable "Select all"](img/select_all_blocked.png)
 
 Перемещаем файл в корзину  
-
 ![Move file to trash](img/move_to_trash.png)
 
 После перемещения в левом нижнем углу появляется соответствующее уведомление с возможностью перейти в корзину.  
