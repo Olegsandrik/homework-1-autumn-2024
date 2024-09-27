@@ -154,18 +154,75 @@
 ## Недавние
 
 ![image](https://github.com/user-attachments/assets/151ed63b-652b-449a-8bbb-10ebb1729f46)
+
 При нажатии соответсвующей кнопки пользователь получает сортированные недавние файлы по категориям (Изображения,Документы,Музыка,Видео).
 
 ![image](https://github.com/user-attachments/assets/a7a6aaec-eff5-4e49-b34c-e1f69d1a4157)
+
 В любой категории можно загрузить файлы
 
 ![image](https://github.com/user-attachments/assets/c5e47122-63c2-41be-a572-b165c265363d)
+
 После загрузки файлов в соответствующей категории можно поделиться файлом или скачать загруженные материалы.
 
 ![image](https://github.com/user-attachments/assets/5be9065a-67dd-4dc7-a359-16ddedc88584)
 ![image](https://github.com/user-attachments/assets/80d96136-1b3b-40d0-9410-5601fc86b111)
+
 А так же выделить материал и поместить его в альбом/корзину/папку. Скачать или копировать выбранный материал или выделить все.
 
+## Авторизация
+
+![image](https://github.com/user-attachments/assets/f4c079aa-cd7d-4880-8c59-7b0e4983cca8)
+![image](https://github.com/user-attachments/assets/2016ce39-8680-46c8-bc63-d6c126c936b7)
+
+Авторизоваться можно либо по почте, либо по номеру телефона.
+Авторизация возможна с помощью таких сервисов как "Одноклассники", "Вконтаке", "Госулсуги", а также войти по QR-коду.
+
+Можно восстановить доступ или создать новый аккаунт
+
+![image](https://github.com/user-attachments/assets/0037d3e1-f01a-4579-898e-78d12f9fb8ff)
+
+
+![image](https://github.com/user-attachments/assets/254d5907-a5c9-424e-9d77-95a063227731)
+
+![image](https://github.com/user-attachments/assets/0a2dfab6-659d-4d4e-91c4-83a710bfad64)
+
+При попытке создания аккаунта с длиной менее 4 или более 31 символов выводится ошибка.
+
+![image](https://github.com/user-attachments/assets/7cf351d4-5fd3-4f7e-baf5-05f7496628d2)
+
+При попытке создания уже существующего аккаунта выводится ошибка.
+
+![image](https://github.com/user-attachments/assets/02d4b32f-600d-492b-912c-56feedabdb54)
+
+При вводе соответсвующей почты аккаунта возможна авторизация.
+
+![image](https://github.com/user-attachments/assets/fa4eeb77-576d-47e0-bc2a-219805526770)
+
+Авторизация возможна с помощью VK ID или другим способом
+
+![image](https://github.com/user-attachments/assets/fa79b94d-50bd-468d-88e1-59ad9fd170e8)
+
+Для подтверждения требуется ввести номер телефона, привязанный к аккаутну.
+
+![image](https://github.com/user-attachments/assets/38eee7ef-7c7b-4b01-a714-e479169c5846)
+
+После чего ввести код, отправленный на соответсвующий номер телефона и авторизоваться.
+
+![image](https://github.com/user-attachments/assets/96231cb5-0216-4c2b-af16-02c829e0db44)
+
+В случае, если телефон не доступен, можно войти по паролю, QR-коду или восстановить доступ
+
+![image](https://github.com/user-attachments/assets/f66ec690-90f5-462d-802d-b65631c9ab5f)
+
+При попытке восстановления почты не сервиса mail выводится ошибка.
+
+![image](https://github.com/user-attachments/assets/6f259b53-a1c4-4e50-92d6-692d83b5a4f0)
+![image](https://github.com/user-attachments/assets/9ec40c0f-60b0-49f8-b6fa-62bd4f279519)
+
+При попытке восстановления аккаунта с недопустимыми символами или несуществующего аккаунта выводится ошибка
+
+## Пароль и безопасность  
 
 ## Редактирование профиля
 
