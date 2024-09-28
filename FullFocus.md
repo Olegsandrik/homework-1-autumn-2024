@@ -601,9 +601,12 @@
 
 ![Moved to trash](img/doc_moved_to_trash.png)
 
-Но после восстановления файл попадает в папку "Все файлы / Копии документов", а не в документы. В разделе "Паспорт" теперь нет документов.  
+Но после восстановления файл попадает в папку "Все файлы / Копии документов", а не в документы.  
 
-![Passport is empty](img/passport_is_empty.png)
+![Moved to doc copies](img/moved_to_doc_copies.png)
 
-![Moved to doc copies](img/moved_to_doc_copies.png)  
+В разделе "Паспорт" теперь нет документов.  
+
+![Passport is empty](img/passport_is_empty.png)  
+
 
