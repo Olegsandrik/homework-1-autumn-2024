@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cd037e8b-c222-47b7-bed8-c9213408a548)# ДЗ №1
+# ДЗ №1
 Команда **FullFocus**
 
 Тестируем функционал **Облака @mail** ([ссылка](https://cloud.mail.ru/)).
@@ -13,7 +13,7 @@
 
 [4. Авторизация](#Авторизация)
 
-[5. Просмотрщик](#просмотрщик)
+[5. Просмотрщик](#Просмотрщик)
 
 [6. Редактирование профиля](#Редактирование-профиля)
 
@@ -281,15 +281,15 @@
 * Можно **удалить материал**.
 
 ![image](https://github.com/user-attachments/assets/68640b1d-53bd-406d-9926-416749a454f0)
+![image](https://github.com/user-attachments/assets/ec93befe-99a9-4c70-a27c-bdbd4e88bfd2)
+![image](https://github.com/user-attachments/assets/8bd17e17-1d3a-4e0b-9618-b422493a43f5)
+![image](https://github.com/user-attachments/assets/5226de84-afe8-4763-9e31-786b535e69a6)
 
 * После нажатия на кнопку **получить ссылку** можно скопировать ссылку в модальном окне.
 * После нажатия на кнопку **получить ссылку** можно установить длительность действия ссылки (час, день, неделя и тд).
 * **Отключить доступ по ссылке** к материалу
 
 ![image](https://github.com/user-attachments/assets/8a19c44b-2c6a-475f-beac-b07575ca24fb)
-![image](https://github.com/user-attachments/assets/ec93befe-99a9-4c70-a27c-bdbd4e88bfd2)
-![image](https://github.com/user-attachments/assets/8bd17e17-1d3a-4e0b-9618-b422493a43f5)
-![image](https://github.com/user-attachments/assets/5226de84-afe8-4763-9e31-786b535e69a6)
 
 * После нажатия на троеточие можно **показать материал в папке**.
 * После нажатия на троеточие можно **копировать материал**.
@@ -298,8 +298,7 @@
 
 ![image](https://github.com/user-attachments/assets/146e60a2-d16b-4705-8c49-dd318a8311f2)
 
-* После нажатия удаления материала можно **подтвердить удаление или отменить действие** его в модальном окне
-* Закрыть модальное окно.
+* После нажатия удаления материала можно **подтвердить удаление или отменить действие** его в модальном окне.
 
 ![image](https://github.com/user-attachments/assets/4adb9ce8-cce6-4f1f-a8a2-6ee686f25682)
 
@@ -348,28 +347,25 @@
 * При просмотре файла формата pdf в iframe **можно повернуть файл по часовой стрелке**.
 
 ![image](https://github.com/user-attachments/assets/dbeb3e09-bfb6-44cc-b9b0-85788955fb51)
+![image](https://github.com/user-attachments/assets/ed6c8572-a224-45f2-8ed6-04824273fe4d)
+
 
 * При просмотре файла формата pdf в iframe **можно открыть свойства документа**.
 * При просмотре файла формата pdf в iframe **можно поставить двухстраничный режим**.
 * При просмотре файла формата pdf в iframe **можно поставить режим заметок**.
 
-![image](https://github.com/user-attachments/assets/ed6c8572-a224-45f2-8ed6-04824273fe4d)
-
-
-
 ![image](https://github.com/user-attachments/assets/0f742d42-edaf-44a9-a0d7-71bef5c5a659)
 
 * Можно **перейти в полноэкранный режим**.
-  
-![image](https://github.com/user-attachments/assets/3c2abe11-d424-4d80-a49e-438689d81239)
-
-* Можно **закрыть "просмотрщик"**.
 
 ![image](https://github.com/user-attachments/assets/85a80ec8-0499-4d16-812b-cc521ea340bd)
 ![image](https://github.com/user-attachments/assets/642efe11-af2d-4725-a1ca-1df596482966)
 
 * **Перейти на следующий или предыдущий файл** при наличии соседних файлов нажатием кнопки или соответствующим свайпом.
+  
+![image](https://github.com/user-attachments/assets/3c2abe11-d424-4d80-a49e-438689d81239)
 
+* Можно **закрыть "просмотрщик"**.
 
 ## Редактирование профиля
 
